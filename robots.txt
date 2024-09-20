@@ -1,1 +1,1 @@
-Sitemap: https://jayakrishnanajayakumar.github.io/ghhlab-website/sitemap.xml
+Sitemap: http://ghhlab.case.edu/sitemap.xml
